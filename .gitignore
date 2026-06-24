@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables / Secrets
+.env
+
+# Logs
+logs/
+*.log
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
