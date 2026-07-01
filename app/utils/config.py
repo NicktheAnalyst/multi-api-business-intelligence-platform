@@ -11,8 +11,8 @@ NEWS_API_KEY = os.getenv(
     "NEWS_API_KEY"
 )
 
-TMDB_API_KEY = os.getenv(
-    "TMDB_API_KEY"
+TMDB_API_TOKEN = os.getenv(
+    "TMDB_API_TOKEN"
 )
 
 EXCHANGE_RATE_API_KEY = os.getenv(
